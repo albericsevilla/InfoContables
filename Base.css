@@ -1,0 +1,65 @@
+﻿body {
+    text-align:center;
+}
+
+body h1 {
+     /*margin:0 auto 0 auto; width:900px;*/
+}
+    body br {
+    background-color: #000000;
+}
+
+#tablas {
+    background-color: #DFDFFF;
+    border-radius: 4px;
+    margin: 0 auto 0 auto;
+    width: 900px;
+}
+
+ #tablas tr:hover {
+    background-color: #6666FF;
+}
+    #tablas tr {
+    text-align: center;
+}
+    #tablas th {
+    background-color: #666699;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: medium;
+}
+    #tablas td {
+    width:400px;
+    }
+
+.lblEmpresa {
+    font-size: x-large;
+    text-transform: uppercase;
+    font-family: 'Ubuntu Titling Rg';
+    color: #D4D0C8;
+    vertical-align: top;
+
+}
+.lblTitulo {
+    font-size:x-large;
+    text-transform: uppercase;
+    font-family: 'Ubuntu Titling Rg';
+    color: #D4D0C8;
+    vertical-align:middle;
+    width:430px;
+
+
+}
+.lblFecha {
+     font-size:medium;
+    text-transform: uppercase;
+    font-family: 'Ubuntu Titling Rg';
+    color: #D4D0C8;
+    text-align:right;
+}
+
+.logoEfaso {
+     height:100px ;
+     width:120px;
+}
+    
